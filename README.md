@@ -14,7 +14,7 @@ This project is combining two of my previously created apps to create a social m
 * Private chat with other followed users.
 * Single-Page designe
 #
-```
+
 # Installation!
 ### 0.
 Clone the repository and set up your .env files for both apps to the same database.

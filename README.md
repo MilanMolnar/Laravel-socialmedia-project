@@ -1,5 +1,5 @@
-### Social media and Messenger Build status
-![Laravel](https://github.com/MilanMolnar/Laravel-instagram-like-project/workflows/Laravel/badge.svg) ![Laravel](https://github.com/MilanMolnar/Vue-messenger-app/workflows/Laravel/badge.svg)
+### Social media and Messenger Build statuses
+![Laravell](https://github.com/MilanMolnar/Laravel-instagram-like-project/workflows/Laravel/badge.svg) ![Laravel](https://github.com/MilanMolnar/Vue-messenger-app/workflows/Laravel/badge.svg)
 
 # Laravel Socialmedia project
 This project is combining two of my previously created apps to create a social media platform.

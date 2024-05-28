@@ -17,20 +17,26 @@ This project is combining two of my previously created apps to create a social m
 
 # Installation!
 ### 0.
-Clone the repository and set up your .env files for both apps to the same database.
+0.1 Download [php](https://www.php.net/downloads) and [composer](https://getcomposer.org/download/) from the included links.<br>
+0.2 Check the php.ini file and uncomment the extensions needed.
 ### 1.
+1.1 Clone the repository and set up your .env files for both apps to the same database.<br>
+1.2 For ease of use, you can create a database.sqlite file in the database folder and point both .env file to that one sqlite file
+### 2.
 ```sh
 cd php-laravel-igclone
+composer update
 composer install
 php artisan migrate
 php artisan storage:link
 cd ..
 ```
-### 2.
+### 3.
 ```sh
 cd chat
+composer update
 composer install
-php artisan migrate
+php artisan migrate 
 ```
 Note: You can check the artisan command list and its description with the command:
 ```sh
@@ -75,7 +81,7 @@ Free to use, free to modify, free to share.
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
-   [MySQL]: <https://www.mysql.com/>
+   [SQlite]: <https://www.sqlite.org/>
    [Github]: <https://github.com/>
    [Bootstrap]: <https://getbootstrap.com/>
    [jQuery]: <http://jquery.com>

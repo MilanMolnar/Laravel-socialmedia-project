@@ -50,7 +50,7 @@ Used technologies for this project:
 * [Laravel] - Best framework for creating awesome apps fast.
 * [PHP] - for the best web apps!
 * [PHP Storm] - Awesome php text editor by jetbrains.
-* [MySQL] - Oracles awesome database.
+* [SQlite] - Database made easy.
 * [Vue.js] - For a component based front-end.
 * [Pusher] - Powering realtime communication b/w browsers
 * [Bootstrap] - UI design.
